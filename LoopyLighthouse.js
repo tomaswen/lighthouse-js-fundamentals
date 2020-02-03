@@ -11,5 +11,4 @@ for (var x=100; x<=200; x++){
   else {
     console.log(x);
   }
- 
 }
